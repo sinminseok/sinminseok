@@ -10,9 +10,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 
-## 🌱 Currently Learning
-
-
 
 ## 📫 Contact Me
 
+email : sin1768@naver.com
